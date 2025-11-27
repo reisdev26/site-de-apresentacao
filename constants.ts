@@ -86,7 +86,7 @@ export const portfolioData: PortfolioData = {
   contact: {
     github: "https://github.com/reisdev26/",
     linkedin: "https://www.linkedin.com/in/welerson-reis-/",
-    email: "contato@welersonreis.com"
+    email: "reisdev26@gmail.com"
   }
 };
 
